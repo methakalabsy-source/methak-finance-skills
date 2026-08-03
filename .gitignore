@@ -1,0 +1,11 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Sensitive data — never commit real financial, donor, partner, or credential information
+.env
+*.key
+*.pem
+credentials.json
