@@ -10,10 +10,10 @@
 
 The framework is built on four operating principles:
 
-- **Evidence first** — conclusions should be linked to reliable source data and supporting evidence.
-- **Professional skepticism** — transactions, reports, balances, and explanations require validation.
-- **Traceability** — findings should be traceable from conclusion to analysis, transaction, and evidence.
-- **Human accountability** — material financial, compliance, approval, and submission decisions remain with authorized professionals.
+- **Evidence first** : conclusions should be linked to reliable source data and supporting evidence.
+- **Professional skepticism** : transactions, reports, balances, and explanations require validation.
+- **Traceability** : findings should be traceable from conclusion to analysis, transaction, and evidence.
+- **Human accountability** : material financial, compliance, approval, and submission decisions remain with authorized professionals.
 
 ## Intended Users
 
